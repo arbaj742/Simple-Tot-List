@@ -18,11 +18,10 @@ It’s designed as a beginner-friendly project to demonstrate dynamic UI updates
 
 ---
 
-## 📸 Screenshot
+<!--  ## 📸 Screenshot
 
-<!-- You can add a screenshot of your app here -->
-![Simple To-Do List Screenshot](https://github.com/arbaj742/Simple-Tot-List/blob/main/Screenshot%20(133).png
-)
+
+![Simple To-Do List Screenshot]() -->
 
 ---
 
