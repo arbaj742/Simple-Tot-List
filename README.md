@@ -21,7 +21,7 @@ It’s designed as a beginner-friendly project to demonstrate dynamic UI updates
 ## 📸 Screenshot
 
 <!-- You can add a screenshot of your app here -->
-![Simple To-Do List Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/235e8083-b73d-4d91-a6f7-64cd7d870b44" />
+![Simple To-Do List Screenshot](https://github.com/arbaj742/Simple-Tot-List/blob/main/Screenshot%20(133).png
 )
 
 ---
